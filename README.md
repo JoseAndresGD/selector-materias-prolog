@@ -32,7 +32,7 @@ Abre tu terminal o línea de comandos.
 
 Ejecuta el siguiente comando: `git clone https://github.com/JoseAndresGD/selector-materias-prolog.git`
 
-#### Abrir el Archivo `index.html`
+#### 2 Abrir el Archivo `index.html`
 
 Una vez que el repositorio esté en tu disco duro, ve a la carpeta del proyecto.  
 Localiza el archivo **`index.html`** y ábrelo directamente en tu navegador web de preferencia  
